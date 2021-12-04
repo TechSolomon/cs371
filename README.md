@@ -1,2 +1,19 @@
 # cs371
-Computer Ethics &amp; Technical Communication projects from the Fall 2021 semester at UAF.
+Computer Ethics & Technical Communication projects from the Fall 2021 semester at UAF.
+
+## Dark Patterns Project
+
+Install the dependencies...
+
+```bash
+cd cs371
+npm install
+```
+
+...then start [Rollup](https://rollupjs.org):
+
+```bash
+npm run dev
+```
+
+Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
