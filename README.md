@@ -1,7 +1,7 @@
 # cs371
 Computer Ethics & Technical Communication projects from the Fall 2021 semester at UAF.
 
-## Dark Patterns Project
+# Dark Patterns Project
 
 Install the dependencies...
 
